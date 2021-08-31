@@ -94,7 +94,6 @@
       <li>The data will be stored on cloud(Atlas)</li>
       <li>To use this storage option:change <b>STORAGE=database</b> in config.env</li>
       <li>Advantage:Data available online and can be accesed on any device</li>
-
     </ol>
   </li>
 </ul>

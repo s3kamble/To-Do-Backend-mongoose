@@ -33,8 +33,6 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#data-file">Data file</a></li>
     <li><a href="#directory-tree">Directory-tree</a></li>
-
-
   </ol>
 </details>
 <br>
